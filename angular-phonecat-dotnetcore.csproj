@@ -1,0 +1,92 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="wwwroot\img\.gitkeep" />
+    <Content Include="wwwroot\img\phones\dell-streak-7.0.jpg" />
+    <Content Include="wwwroot\img\phones\dell-streak-7.1.jpg" />
+    <Content Include="wwwroot\img\phones\dell-streak-7.2.jpg" />
+    <Content Include="wwwroot\img\phones\dell-streak-7.3.jpg" />
+    <Content Include="wwwroot\img\phones\dell-streak-7.4.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.0.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.1.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.2.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.3.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.4.jpg" />
+    <Content Include="wwwroot\img\phones\dell-venue.5.jpg" />
+    <Content Include="wwwroot\img\phones\droid-2-global-by-motorola.0.jpg" />
+    <Content Include="wwwroot\img\phones\droid-2-global-by-motorola.1.jpg" />
+    <Content Include="wwwroot\img\phones\droid-2-global-by-motorola.2.jpg" />
+    <Content Include="wwwroot\img\phones\droid-pro-by-motorola.0.jpg" />
+    <Content Include="wwwroot\img\phones\droid-pro-by-motorola.1.jpg" />
+    <Content Include="wwwroot\img\phones\lg-axis.0.jpg" />
+    <Content Include="wwwroot\img\phones\lg-axis.1.jpg" />
+    <Content Include="wwwroot\img\phones\lg-axis.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-atrix-4g.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-atrix-4g.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-atrix-4g.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-atrix-4g.3.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-bravo-with-motoblur.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-bravo-with-motoblur.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-bravo-with-motoblur.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-charm-with-motoblur.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-charm-with-motoblur.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-charm-with-motoblur.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-defy-with-motoblur.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-defy-with-motoblur.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-defy-with-motoblur.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.2.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.3.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.4.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom-with-wi-fi.5.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom.0.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom.1.jpg" />
+    <Content Include="wwwroot\img\phones\motorola-xoom.2.jpg" />
+    <Content Include="wwwroot\img\phones\nexus-s.0.jpg" />
+    <Content Include="wwwroot\img\phones\nexus-s.1.jpg" />
+    <Content Include="wwwroot\img\phones\nexus-s.2.jpg" />
+    <Content Include="wwwroot\img\phones\nexus-s.3.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.0.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.1.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.2.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.3.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.4.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.5.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-galaxy-tab.6.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-gem.0.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-gem.1.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-gem.2.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-mesmerize-a-galaxy-s-phone.0.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-mesmerize-a-galaxy-s-phone.1.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-mesmerize-a-galaxy-s-phone.2.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-mesmerize-a-galaxy-s-phone.3.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-showcase-a-galaxy-s-phone.0.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-showcase-a-galaxy-s-phone.1.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-showcase-a-galaxy-s-phone.2.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-transform.0.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-transform.1.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-transform.2.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-transform.3.jpg" />
+    <Content Include="wwwroot\img\phones\samsung-transform.4.jpg" />
+    <Content Include="wwwroot\img\phones\sanyo-zio.0.jpg" />
+    <Content Include="wwwroot\img\phones\sanyo-zio.1.jpg" />
+    <Content Include="wwwroot\img\phones\sanyo-zio.2.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-g2.0.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-g2.1.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-g2.2.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.0.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.1.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.2.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.3.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.4.jpg" />
+    <Content Include="wwwroot\img\phones\t-mobile-mytouch-4g.5.jpg" />
+    <Content Include="wwwroot\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.1" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+{
+  "name": "angular-phonecat-dotnetcore",
+  "authors": [
+    "Nermin Dibek <ndibek@gmail.com>"
+  ],
+  "description": "PhoneCat Angular APp Demo in dotnet core",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "v1.6.5-build.5353+sha.136a42a",
+    "angular-animate": "v1.6.5-build.5353+sha.136a42a",
+    "jQuery": "3.2.1",
+    "bootstrap": "v4.0.0-alpha.6",
+    "angular-route": "v1.6.5-build.5353+sha.136a42a",
+    "angular-resource": "v1.6.5-build.5353+sha.136a42a"
+  }
+}
