@@ -1,0 +1,27 @@
+{
+  "name": "angular-phonecat-dotnetcore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "karma": "^1.6.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndibek/angular-phonecat-dotnetcore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndibek/angular-phonecat-dotnetcore/issues"
+  },
+  "homepage": "https://github.com/ndibek/angular-phonecat-dotnetcore#readme"
+}
